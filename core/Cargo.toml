@@ -1,0 +1,11 @@
+[package]
+name = "core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+utils = { path = "../utils" }
+bigint = { version = "4" }
+leveldb = { version = "0" }
+chrono = { version = "0" }
+serde = { version = "1", features = ["derive"] }

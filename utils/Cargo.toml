@@ -1,0 +1,11 @@
+[package]
+name = "utils"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bigint = { version = "4" }
+bincode = { version = "1" }
+db-key = { version = "0.0.5" }
+serde = { version = "1", features = ["derive"] }
+rust-crypto = { version = "0" }
