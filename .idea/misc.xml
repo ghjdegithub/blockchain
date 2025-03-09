@@ -20,9 +20,6 @@
     </option>
   </component>
   <component name="GOROOT" url="file://$USER_HOME$/.gvm/gos/go1.17.5" />
-  <component name="GitToolBoxBlameSettings">
-    <option name="version" value="2" />
-  </component>
   <component name="JsBowerSettings">
     <bower-package value="" />
     <bower.json value="" />
